@@ -8,10 +8,12 @@ Course
 Data Analysis
 Data Science
 Digital Currency
+demo
 Ecology
 Econometrics
 Education
 Epidemiology
+example
 Exploratory Data Analysis
 Financial Analytics
 Forecasting
@@ -81,3 +83,5 @@ Web Applications
 育儿
 臺灣
 醫學
+科研
+科普
